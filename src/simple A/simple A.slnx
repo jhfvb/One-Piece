@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="D:/workspaceGIT/OnePiece/src/sim/sim.vcxproj" Id="02d81cfd-fdbf-4da1-8ebe-ac45bef583d8" />
+  <Project Path="D:/workspaceGIT/OnePiece/src/simple A/simple A.vcxproj" Id="b550cc90-6b84-4ab7-85f8-c7e4c80dadac" />
+  <Project Path="D:/workspaceGIT/OnePiece/src/simple B/simple B.vcxproj" Id="f4457a21-984c-437c-9d57-37b9407424b6" />
+</Solution>
