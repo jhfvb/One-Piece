@@ -1,0 +1,13 @@
+﻿  math_dll_c.cpp
+D:\workspaceGIT\Chapter_2_Cpp\math_dll\math_dll\math_dll_c.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\workspaceGIT\Chapter_2_Cpp\math_dll\math_dll\math_dll_c.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/math_dll_c.cpp”)
+  
+D:\workspaceGIT\Chapter_2_Cpp\math_dll\math_dll\math_dll.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/math_dll_c.cpp”)
+  
+D:\workspaceGIT\Chapter_2_Cpp\math_dll\math_dll\math_dll_c.cpp(66,32): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“/math_dll_c.cpp”)
+  
+    正在创建库 D:\workspaceGIT\Chapter_2_Cpp\math_dll\x64\Debug\math_dll.lib 和对象 D:\workspaceGIT\Chapter_2_Cpp\math_dll\x64\Debug\math_dll.exp
+  math_dll.vcxproj -> D:\workspaceGIT\Chapter_2_Cpp\math_dll\x64\Debug\math_dll.dll

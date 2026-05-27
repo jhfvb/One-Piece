@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="math_dll/math_dll.vcxproj" Id="11783f93-96b4-4e3c-88d4-d1e9b463b419" />
+  <Project Path="test/test.vcxproj" Id="60764b07-e0bc-4320-a587-9b3f5409b4a7" />
+  <Project Path="test1/test1.vcxproj" Id="5523bad6-cf59-4c5b-bf78-79eaa9d6438b" />
+</Solution>
