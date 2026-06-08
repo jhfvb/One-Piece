@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="condition_variable/condition_variable.vcxproj" Id="a829082f-ee87-4c33-a7cd-589a1796d9dd" />
+  <Project Path="Mutex/Mutex.vcxproj" Id="e7849627-e0db-4c63-b422-4bac5ae0bcd0" />
+  <Project Path="SPSC/SPSC.vcxproj" Id="9314dad0-aaa2-43d9-abd4-1791eeb388b5" />
+  <Project Path="Thread/Thread.vcxproj" Id="9292caf6-80a0-4169-bef8-80a749ed0825" />
+  <Project Path="ThreadPool/ThreadPool.vcxproj" Id="f386d2b7-4f03-45e6-8db3-ecc8ea91e04f" />
+  <Project Path="ThreadSafeimageQueue/ThreadSafeimageQueue.vcxproj" Id="d32274e7-528a-4744-8a3b-1703291ceaed" />
+  <Project Path="UnsafeCounter/UnsafeCounter.vcxproj" Id="28a05190-82a6-4256-9f07-9a0137ff6e3e" />
+</Solution>
