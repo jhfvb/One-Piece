@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AlgoPipline/AlgoPipline.vcxproj" />
+  <Project Path="Factory Pattern/Factory Pattern.vcxproj" />
+  <Project Path="Observer Pattern/Observer Pattern.vcxproj" />
+  <Project Path="SingletonPattern/SingletonPattern.vcxproj" />
+</Solution>
